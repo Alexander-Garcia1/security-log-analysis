@@ -1,0 +1,19 @@
+USERNAME,SOURCE IP,REGION,CITY,OCCURRENCES
+user_020,192.0.2.99,Sample Region 03,Sample City 01,3
+user_026,192.0.2.32,Sample Region 08,Sample City 04,4
+user_036,192.0.2.59,Sample Region 03,Sample City 03,4
+user_036,192.0.2.88,Sample Region 08,Sample City 04,2
+user_050,192.0.2.12,Sample Region 04,Sample City 12,1
+user_050,192.0.2.14,Sample Region 06,Sample City 14,1
+user_050,192.0.2.21,Sample Region 05,Sample City 07,8
+user_050,192.0.2.58,Sample Region 02,Sample City 02,1
+user_050,192.0.2.61,Sample Region 05,Sample City 05,2
+user_050,192.0.2.63,Sample Region 07,Sample City 07,1
+user_050,192.0.2.64,Sample Region 08,Sample City 08,2
+user_050,192.0.2.65,Sample Region 01,Sample City 09,2
+user_050,192.0.2.72,Sample Region 08,Sample City 02,2
+user_050,192.0.2.75,Sample Region 03,Sample City 05,1
+user_050,192.0.2.77,Sample Region 05,Sample City 07,1
+user_050,192.0.2.81,Sample Region 01,Sample City 11,2
+user_050,192.0.2.86,Sample Region 06,Sample City 02,2
+user_050,192.0.2.90,Sample Region 02,Sample City 06,1
