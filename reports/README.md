@@ -1,0 +1,1 @@
+This directory contains documentation and sanitized examples from the COMP 447 Security Log Analysis project at Loyola University Chicago. The project involved successful authentication analysis, failed login investigations, legitimate account failures, and IP geolocation reporting.
